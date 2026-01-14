@@ -73,7 +73,7 @@ Swagger is available at:
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
-![img_6.png](img_6.png)
+![img_6.png](src/main/resources/photos/img_6.png)
 
 ---
 
@@ -84,7 +84,7 @@ H2 Console is available at:
 ```
 http://localhost:8080/console
 ```
-![img_7.png](img_7.png)
+![img_7.png](src/main/resources/photos/img_7.png)
 **Connection settings:**
 
 ```
@@ -124,7 +124,7 @@ Response:
 ```
 
 HTTP Status: **201 Created**
-![img.png](img.png)
+![Status201](src/main/resources/photos/img.png)
 ---
 
 ### 📄 Get product by ID
@@ -136,7 +136,7 @@ HTTP Status: **201 Created**
 ```
 
 HTTP Status: **200 OK**
-![img_1.png](img_1.png)
+![img_1.png](src/main/resources/photos/img_1.png)
 
 ---
 
@@ -149,7 +149,7 @@ HTTP Status: **200 OK**
 ```
 
 HTTP Status: **200 OK**
-![img_2.png](img_2.png)
+![img_2.png](src/main/resources/photos/img_2.png)
 
 ---
 
@@ -170,7 +170,7 @@ Request body:
 ```
 
 HTTP Status: **200 OK**
-![img_3.png](img_3.png)
+![img_3.png](src/main/resources/photos/img_3.png)
 
 ---
 
@@ -184,7 +184,7 @@ HTTP Status: **200 OK**
 
 HTTP Status: **204 No Content**
 
-![img_4.png](img_4.png)
+![img_4.png](src/main/resources/photos/img_4.png)
 
 ---
 
@@ -194,7 +194,7 @@ If a product with the given ID does not exist, the API returns:
 
 * HTTP Status: **404 Not Found**
 * Error message in JSON format
-![img_5.png](img_5.png)
+![img_5.png](src/main/resources/photos/img_5.png)
 
 ---
 
